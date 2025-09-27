@@ -84,7 +84,7 @@ header nav a.active {
 }
 
 .main-content {
-  background: linear-gradient(135deg, #4a4458 0%, #5d5470 100%);
+  background: linear-gradient(135deg, #ffffff 0%, #5d5470 100%);
   padding: 60px 80px;
   display: flex;
   flex-direction: column;
@@ -1339,6 +1339,7 @@ footer {
   color: #3a2e4d; /* Dark purple */
   font-family: 'Inter', sans-serif;
 }
+
 
 
 
